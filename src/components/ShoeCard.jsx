@@ -5,7 +5,7 @@ const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg,changeColour,colour }
       changeColour(imgURL.color)
     }
   };
-//text-coral-red text-yellow-700 text-cyan-900 border-coral-red bg-coral-red border-yellow-700 bg-yello-900 border-cyan-900 bg-cyan-900
+//text-coral-red text-yellow-700 text-cyan-900 border-coral-red bg-coral-red border-yellow-700 bg-yellow-700 border-cyan-900 bg-cyan-900
   return (
     <div
       className={`border-2 rounded-xl ${
